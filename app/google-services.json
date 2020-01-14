@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "429827736853",
+    "firebase_url": "https://store-2e9a1.firebaseio.com",
+    "project_id": "store-2e9a1",
+    "storage_bucket": "store-2e9a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429827736853:android:bca73f26ecaac670f2d51c",
+        "android_client_info": {
+          "package_name": "com.bharathi.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429827736853-r6bqfq4oobducp3o1h12vdrs9502cpo2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bharathi.store",
+            "certificate_hash": "1ed0d49d25650007d434147910d5bc86424fe98f"
+          }
+        },
+        {
+          "client_id": "429827736853-n9a9haeg2jlbkcqg3l5ld4la8744mit8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6JpFA-sEfWR41rwAjW8n8rRWGhUMY2y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429827736853-n9a9haeg2jlbkcqg3l5ld4la8744mit8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
